@@ -107,8 +107,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:035561_0000_1005F30801CA09D0"/>
-            <pb facs="tcp:035561_0001_1005F3436729ECB8" rendition="simple:additions"/>
+            <pb facs="unknown:035561_0000_1005F30801CA09D0"/>
+            <pb facs="unknown:035561_0001_1005F3436729ECB8"
+                rendition="simple:additions"/>
             <p>SERMON DELIVERED AT FLEMINGTON, On the 4th of July, 1799.</p>
             <p>By THOMAS GRANT, A. M. Pastor of the Presbyterian Church at Amwell, New-Jersey.</p>
             <p>PUBLISHED BY REQUEST.</p>
@@ -117,7 +118,7 @@
       </front>
       <body>
          <div type="sermon">
-            <pb facs="tcp:035561_0002_1005EBD404FD7F10"/>
+            <pb facs="unknown:035561_0002_1005EBD404FD7F10"/>
             <head>A SERMON, EXODUS xiii.3.</head>
             <epigraph>
                <q>"And Moses said unto the people, remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the Lord brought you out from this place."</q>
@@ -131,7 +132,7 @@
                </gap> the event, and the time when it was accomplished is the period referred to in the text, where it is said, "<hi>Remember this day in which ye came out from Egypt, out of the house of bondage.</hi>"</p>
             <p>How parallel the words, and the circumstances, to the day, and the events, which we are now assembled to commemorate. On this day we ce<g ref="char:EOLhyphen"/>lebrate the independence of our country; this is the day of her political existence among the nations of the earth, the day when she escaped from civil bondage, the aera of her liberty, prosperity and glory; a day pregnant with great events, and worthy to be remembered throughout all generations.</p>
             <p>This is the twenty-third Anniversary of our country's freedom; on this day three and twenty years ago, our representatives in Con<g ref="char:EOLhyphen"/>gress assembled, declared these United States of America free and inde<g ref="char:EOLhyphen"/>pendent, broke the bonds that united us to the mother country, and cast off the servile yoke, which degraded us to a state of dependence unworthy of freemen. To defend our invaded rights and privileges, to resist the iron hand of oppression stretched out against us, to preserve our liberties inviolate to the latest posterity, we rose in its defence, and appealed to the sovereign Ruler of the Universe for the justice of our cause, relying upon his protection and support in this time of trial, this critical and arduous contest, big with our infant country's fate. Glorious and important strug<g ref="char:EOLhyphen"/>gle! What spectacle more sublime and interesting, than a nation thus fighting in the cause of freedom, with this motto inscribed on her banners,
-<pb facs="tcp:035561_0003_1005F31495C48A50"/>
+<pb facs="unknown:035561_0003_1005F31495C48A50"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> thy conflict with oppression, when arrayed i<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -159,7 +160,7 @@
             <p>We should, therefore, strive to keep the day in a suitable and becoming manner, and we should remember it by having a deep and grateful <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb facs="tcp:035561_0004_1005F30B11996EA0"/>
+               <pb facs="unknown:035561_0004_1005F30B11996EA0"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> God's good<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -194,7 +195,7 @@
             <p>And here the great event which first demands our attention on this oc<g ref="char:EOLhyphen"/>casion, is, the Revolution which established our Independence. This glo<g ref="char:EOLhyphen"/>rious event, which is the foundation of our liberties and gave us an <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb facs="tcp:035561_0005_1005F316D05DC9F0"/>
+               <pb facs="unknown:035561_0005_1005F316D05DC9F0"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> occasioned by the injustice and <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -213,7 +214,7 @@
                   <desc>•</desc>
                </gap>ng our frequent remonstrances; and finally, instead of redress of grievan<g ref="char:EOLhyphen"/>ces, resolved that they had a right to bind us in all cases whatsoever, and determined to compel us to unconditional submission to their unjust and arbitrary requisitions.</p>
             <p>But Great Britain was mistaken in the spirit that actuated Americans; they were not so easily to be deprived of their property and rights; they were not tamely to be reduced to a state so abject and servile; they were not without a manful and vigorous struggle for the support of liberty to be made, "<hi>hewers of wood and drawers of water,</hi>" to any nation under heaven; and the doctrine of passive obedience and non-resistance to ty<g ref="char:EOLhyphen"/>ranny and oppression was too gross and palpable a folly to meet with many admirers on this side the Atlantic. Resistance was therefore the conse<g ref="char:EOLhyphen"/>quence of their attempt to enforce their arbitrary exactions, and Ameri<g ref="char:EOLhyphen"/>cans indignant fly to arms. Now war with all its horrors descends upon our once peaceful shores, the vast ocean itself forms no barrier against its dire approach; for its wide surface is burdened with numerous ships, which hither waft the messengers and implements of death. See bands of foreign ruffians landing on our coasts; see how they cover all the shore; see murderous instruments arrayed, the thundering cannon, the destruc<g ref="char:EOLhyphen"/>tive musquet, the pointed bayonet, the glittering sword, the polished spear; see martial banners displayed and long embattled ranks waiting the signal of combat with the sons of freedom, assembled to defend their na<g ref="char:EOLhyphen"/>tive land! The scene of slaughter commences, the roar of cannon and musquetry, the clashing of arms, the beating of drums, the cries of the wounded, the groans of the dying, ascend at once in mingled tumult and confuse the ear. Rank closes up with rank, the earth is tinged with pur<g ref="char:EOLhyphen"/>ple gore and strewed with human carcases. The king of terrors erects his bloody standard in the midst, and waves it triumphant over<g ref="char:punc">▪</g> this scene of carnage; the grim tyrant with his destroying sword mows down whole ranks at once, regards neither youth nor age, spares neither virtue nor talents, cowards nor heroes, but with merciless look stalks through the field over heaps of slain, and scatters around him promiscuous destruction. Mark that band of heroes foremost in the fight, who lead the sons of free<g ref="char:EOLhyphen"/>dom on to battle. Melancholy scene! The rude destroyer makes a near approach to them, strides across their way, and brandishes his fatal dart. Then Warren, Montgomery, Mercer and other brave heroes fell. Oh! what a fall was that for you my country! If virtue, talents, courage, be<g ref="char:EOLhyphen"/>nevolence, humanity and love of country could have saved, you would not thus have fallen. Behold them, my countrymen! The glory of America has fallen in battle upon the high places; encircled in the arms of death they lie, and no kind friend at hand had they, to sooth their expiring mo<g ref="char:EOLhyphen"/>ments: But children, wives and friends had they forsaken, to spill their blood in their beloved country's cause: Their mangled limbs, their bleed<g ref="char:EOLhyphen"/>ing wounds, their breathless bodies, are the costly sacrifices, which they
-<pb facs="tcp:035561_0006_1005F30EECDAD960"/>
+<pb facs="unknown:035561_0006_1005F30EECDAD960"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> on the shrine of freedom, and <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -245,7 +246,7 @@
                </gap> of freedom, and shall be mentioned with all that glow of patriotic affection, which even gratitude itself can inspire.</p>
             <p>And whilst on this day we celebrate our independence, let us thus re<g ref="char:EOLhyphen"/>member the price we paid for it, even the best blood and treasure of our country. Imagine not my hearers that such descriptions are needless; for these scenes of woe, this bloody tragedy, were once serious realities, in which we were too nearly concerned to think them trifles, and we should not even now remain unaffected at their remembrance; for un<g ref="char:EOLhyphen"/>less we are deeply and feelingly impressed, with a sense of the evils and horrors of war, we can never sufficiently value the inestimable blessing of peace. Apathy, with respect to deliverances experienced, borders too much on insensibility: It is our duty frequently to recall to mind past times of difficulty and danger, and the signal mercies we have received, that we may be thankful for them, and be duly sensible of the different and happy circumstances in which we are placed. Happy change indeed; the storm of war is turned into the calm of peace; the lightnings cease to flash, the deep thunders to roll, the dark clouds are dissipated, and a bright day ensues: Peace with her balmy wings descends and drops her olive branch upon our coasts. Years of happiness and plenty have rolled on since our deliverance from civil bondage, and we have been long bask<g ref="char:EOLhyphen"/>ing in the full sunshine of wordly prosperity, "<hi>sitting under our own vine and figtree, where there was none to disturb or make us afraid.</hi>" Bles<g ref="char:EOLhyphen"/>sed with a climate temperate and salubrious, with a soil luxuriantly fertile, producing abundantly the necessaries, conveniencies and comforts of life, with an immense and well watered territory, "<hi>a land of brooks and fountains of water, whose stones are iron, and, like Palestine of old, flowing with milk and honey.</hi>" Add to these natural advantages, the civil and religious privileges we enjoy, and where is the nation under Heaven so highly favoured, that is made the subject of such numerous and precious blessings, and that is under greater obligations of gratitude to God.</p>
             <p>
-               <pb facs="tcp:035561_0007_1005F319AA7A7B30"/>
+               <pb facs="unknown:035561_0007_1005F319AA7A7B30"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> great importance to our country, <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -269,7 +270,7 @@
                </gap>ne blessings we had obtained by our independence; to regulate, balance and define the powers of government, in such a manner, as to secure the rights, liberty and happiness of the people; and to concentrate the whole force of the union for internal and external defence. These important ends are happily attained under our present form of government, which employed for a considerable time the ablest statesmen of our country; which in its structure affords a display of wisdom and talents, unequalled perhaps in any nation, and which is the admiration of the most enlight<g ref="char:EOLhyphen"/>ened politicians in the world.</p>
             <p>Perhaps a more difficult and weighty task cannot be undertaken, than to contrive a plan of republican government to suit the political genius and principles of a nation; to give the people their due share in its admi<g ref="char:EOLhyphen"/>nistration; to establish its various branches, so that they shall be suffici<g ref="char:EOLhyphen"/>ently extensive to include, direct and superintend all their essential politi<g ref="char:EOLhyphen"/>cal interests, and to balance and limit the different departments<g ref="char:punc">▪</g> in such a manner, that they shall not clash, or one interfere with or assume the province of another. In ours, the powers are so defined, the departments are so circumscribed, and the checks so strong and properly disposed, as to answer these valuable purposes as far, perhaps, as human wisdom can ef<g ref="char:EOLhyphen"/>fect; and to complete its merit, provides a remedy for its own defects.</p>
             <p>We ought, therefore, highly to value this excellent constitution, which is the safety, happiness and glory of our country; and we should stand by and defend this palladium of our liberty and independence, against all the attacks of internal or external foes. Indeed it must be gross ignorance and stupidity, or a deliberate and wicked intention, to oppose the prospe<g ref="char:EOLhyphen"/>rity and happiness of America, which excites any to slander or defame our government or its administration; for they are both the choice of the people; they are both endeared to us by experience and trial; they are both sanctioned and ratified by the express, the avowed, the public and repeated declarations of a great majority of the most wise, enlightened and patriotic legislatures, as well as individuals, throughout the Union. It is enough, then, to excite indignation in the breast of every true friend to his country, to see men professing a great concern for its welfare, who at the same time endeavour to promote disaffection to the government and its administration; and under the sacred garb of patriotism, like political assassins, conceal a dagger to plunge into its very vitals. <hi>O Washington!</hi> thy country's hero, glory and defence<g ref="char:punc">▪</g> Could not thy long tried services, thy hard earned laurels, thy disinterested patriotism, thy noble talents, thy distinguished virtues, which compelled even envious Europe to confer on thee the palm, could they not secure even thee from those shafts of malice, when, like a skillful pilot, thou didst direct the helm of state, and brought us safely through the storm, in spite of threatening rocks and quicksands?
-<pb facs="tcp:035561_0008_1005F310AE3D4F90"/>
+<pb facs="unknown:035561_0008_1005F310AE3D4F90"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> v<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -301,7 +302,7 @@
             <p>Strange, indeed it must appear, that such designs should be formed by a <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="10" facs="tcp:035561_0009_1005F31D15CA81A8"/>
+               <pb n="10" facs="unknown:035561_0009_1005F31D15CA81A8"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> us in our struggle for liberty; who here became animated by <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -316,7 +317,7 @@
                   <desc>•</desc>
                </gap>ounded licentiousness and wickedness, destroy all subordi<g ref="char:EOLhyphen"/>nation, overturn the foundations of civil and religious society, and total<g ref="char:EOLhyphen"/>ly subvert social order and human happiness.</p>
             <p>The policy of France has been to divide people from their governments; thus to weaken the strength of nations by civil dissention and party spirit, and pave the way for an easy conquest to themselves. This has been their inva<g ref="char:EOLhyphen"/>riable conduct; and it has proved but too successful with respect to many nations whom they have subjugated, and whose melancholy fate affords an awful warning to others, to shun this dangerous snare. That they have had the same ensnaring views and insidious designs with respect to us, is a truth too glaring now to be denied: For this purpose they have estab<g ref="char:EOLhyphen"/>lished these secret societies in America, and have influenced a number of our fellow-citizens to espouse their cause, and form a party in their fa<g ref="char:EOLhyphen"/>vour; who, in conjunction with our foreign enemies, have endeavoured to
-<pb facs="tcp:035561_0010_1005F313001A7188"/>
+<pb facs="unknown:035561_0010_1005F313001A7188"/>
                <gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>arrass our government; to promote disaffection and <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -340,7 +341,7 @@
                <gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>
-               <pb facs="tcp:035561_0011_1005F31FA47A4D78"/>
+               <pb facs="unknown:035561_0011_1005F31FA47A4D78"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> flag rides triumphant upon the ocean, and compels <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -363,7 +364,7 @@
                   <desc>•</desc>
                </gap> to the Supreme Disposer of all events, for raising up, and qualifying so emi<g ref="char:EOLhyphen"/>nent a character, to fill this exalted station; and for overruling events in such a way, that he should be called by the public voice, to take the helm of government at this interesting and critical period. If to these things we add the appointment and acceptance of the illustrious and beloved Wash<g ref="char:EOLhyphen"/>ington, to the command of our armies, at this important crisis, the de<g ref="char:EOLhyphen"/>tail of our country's prosperity seems complete; and we are made to re<g ref="char:EOLhyphen"/>joice, equally, at our own happiness, and at the exalted height to which his condescension, in this respect, has raised his fame.</p>
             <p>
-               <pb facs="tcp:035561_0012_1005F325ECCF2548"/>Can we then sincerely view the great events which <gap reason="illegible" resp="#PDCC" extent="1 span">
+               <pb facs="unknown:035561_0012_1005F325ECCF2548"/>Can we then sincerely view the great events which <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> us; can we contemplate the inestimable worth and <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
@@ -379,7 +380,7 @@
             <p>
                <hi>First.</hi> Gratitude to God, the author of all our mercies, is a duty essen<g ref="char:EOLhyphen"/>tially necessary, and highly incumbent upon us: "<hi>For by strength of hand,</hi> says the text, <hi>the Lord brought you out from this place.</hi>" And it is the Lord alone that brings us out of all our difficulties; that defends us from the snares of our enemies, and provides a way for us to escape out of their hands; he cuts the bars of brass asunder, opens the prison doors, and sets the weary captive free: And when we consider the many and great deliverances we have experienced; the number and power of our enemies; the many stratagems, and insidious designs that have been formed against us, our own weakness and helplessness, the apparent im<g ref="char:EOLhyphen"/>possibility, at times, of being able to extricate ourselves from the laba<g ref="char:EOLhyphen"/>rynth which enclosed us; we may truly say, "<hi>by strength of hand the Lord brought us out of our troubles, and delivered us from the power of our enemies, even by his Almighty and out stretched arm.</hi>" Where is the nation on the globe that is more prosperous and more happy, more fa<g ref="char:EOLhyphen"/>voured in its political and civil institutions, more blessed with temporal as well as spiritual privileges. We should, therefore, frequently recol<g ref="char:EOLhyphen"/>lect the numerous and distinguished mercies, which the Lord has confer<g ref="char:EOLhyphen"/>red upon us, and endeavour to be truly thankful for them. We should also recollect the many and aggravated sins we have committed in the face of these mercies; for ingratitude and abuse of God's goodness, disobedience, profanity, idolatry, dissipation and infidelity too much abound. It is our duty then to be truly humble on their account; and the goodness of God which we have so remarkably experienced, should have a tendency to lead us to repentance, and a suitable improvement of his mercies: In this way our land would become Emanuels, where he would delight to dwell; God would be in the midst of us for good; would be our strong tower and rock of defence, a wall of fire round about us, to preserve us from all our enemies, and he would cause that no weapon formed against us should prosper.</p>
             <p>
-               <pb facs="tcp:035561_0013_1005F32197A16870"/>
+               <pb facs="unknown:035561_0013_1005F32197A16870"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> duty at this period highly necessary, is that <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -400,7 +401,7 @@
                </gap> Venice, Genoa, Sardinia, Geneva, Holland, Switzerland—all have fallen and perished in the fatal snare; distrusting and suspecting the views of their own governments, and confiding in the fair and deceitful promises of the French, they became divided among themselves, and thus all possibility and hope of union for defence being taken away, they be<g ref="char:EOLhyphen"/>came an easy prey to their enemies. This seems to be the main object and principal design of the French, to promote division and party spirit, among the people, and to wean their affections from their government: If they can succeed in this, their triumph is complete, the walls of defence are thrown down, and invasion immediately ensues. This they tried in America; and though defeated in the end, yet for a while were so success<g ref="char:EOLhyphen"/>ful as greatly to retard defensive measures, and to clog the wheels of go<g ref="char:EOLhyphen"/>vernment. Let us then f<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rmly believe this important and eternal truth, that if we are united we may stand, but divided we must fall; and let it produce its full conviction in our minds and upon our conduct. Govern<g ref="char:EOLhyphen"/>ment is the great bond of union to a people: If we distrust it, and place no confidence in it, all is lost; there is no centre of union, information, or of action; no plan of safety, no measures of defence. Let us then cultivate affection and esteem for the government of our choice, and place the utmost confidence in it. If any thing be wrong, as no human system is perfect, and time frequently discovers errors, let us not despise and reject it, on that account; but use the means prescribed for a constitutional reform. As republicans we ought to have wisdom, virtue and good sense enough, to know and feel that the majority must govern; that the ru<g ref="char:EOLhyphen"/>lers whom we have chosen, and they only, must direct our public affairs; and that if their views and measures are not conformable to our judg<g ref="char:EOLhyphen"/>ments, we are more likely to be wrong than they, who are at the source of information, and have a combination of facts and circumstances, to influence their decisions, which to us are often out of sight. Let us strive to cultivate knowledge, that we may have enlarged views of our political concerns, and discern where our true interests lie. Let us beware of ig<g ref="char:EOLhyphen"/>norance, the disgrace of human nature, the enemy of civil society, and the ruin of republics. It is because we are ignorant of our political du<g ref="char:EOLhyphen"/>ties, of the nature and excellence of the civil institutions that we enjoy, that we undervalue, and disregard them, and do not give them our ut<g ref="char:EOLhyphen"/>most support. It is because we have too little of that virtue, which is the principle and spring of our government, that many are so unreasonably difficult, absurdly censorious, suspicious and seditious; so very backward to exert themselves in their country's service. Let us then endeavour to conform our disposition, sentiments and conduct to the genius of that form of government which we have chosen; let us cultivate republican principles, manners and habits, and make our country's welfare, the chief object of our pursuit; and let us banish these mean, unfounded suspicions and jealousies, which are the effects, too frequently, of criminal and wilful ignorance, of prejudice, envy or a levelling disposition, and which constitute
-<pb facs="tcp:035561_0014_1005F345CE9B5588"/>
+<pb facs="unknown:035561_0014_1005F345CE9B5588"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> ban<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -428,7 +429,7 @@
             <p>Let us then animate ourselves, to a defence of our independence, on this day, sacred to its memory, by considering what it cost us. The years of anxiety and toil, the arduous and painful exertions; the scenes of plunder, desolation and burning; of misery and woe; of destruction and carnage; how much blood and treasure, how many precious and invalua<g ref="char:EOLhyphen"/>ble lives; here an affectionate father, there a dutiful and promising son, here a fond brother, there a near relative or friend! Can you contemplate this scene of suffering, and not be affected with it; can you consider these costly sacrifices, made to secure your liberties, and feel unconcerned or indifferent about them, feel willing to resign them even without a struggle to such sacrilegious, daring and insulting enemies? Certainly no; you will not so disgrace your country: <hi>I see</hi> a brightg <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb facs="tcp:035561_0015_1005F32441B12E88"/>
+               <pb facs="unknown:035561_0015_1005F32441B12E88"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>; the <hi>Ameri<gap reason="illegible" resp="#PDCC" extent="3 letters">
